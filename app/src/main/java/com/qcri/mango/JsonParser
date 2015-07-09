@@ -1,0 +1,1 @@
+It get the un-parsed data  data from the MainActivity function "getData"(fusion tables), and the parse the data and save it in the Models class.

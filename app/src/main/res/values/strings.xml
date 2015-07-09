@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mango</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_pic">PicActivity</string>
+    <string name="title_activity_log_in">logIn</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="title_activity_facebook">Facebook</string>
+    <string name="FB_id">363323600531738</string>
+</resources>

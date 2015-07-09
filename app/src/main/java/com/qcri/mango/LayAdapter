@@ -1,0 +1,7 @@
+this is where you create your content for the recyclerView which is just a container that you can scroll through,
+the layadapter creates the content through onBindViewHolder, and pass them in the layout you inflated in onCreateViewHolder
+
+
+you get your content from the Parsed Json data using the class models
+
+the class get called form the MainActivity from the function "updateText"
